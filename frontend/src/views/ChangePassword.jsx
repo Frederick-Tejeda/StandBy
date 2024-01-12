@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios'
 
-const ServerUrl = 'https://stand-by.onrender.com';
+const ServerUrl = 'https://standby-yd62.onrender.com';
 
 const ChangePassword = () => {
 

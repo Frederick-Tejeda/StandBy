@@ -3,7 +3,7 @@ import axios from 'axios'
 import '../styles/home.css'
 import { useNavigate } from 'react-router-dom';
 
-const ServerUrl = 'https://stand-by.onrender.com';
+const ServerUrl = 'https://standby-yd62.onrender.com';
 
 const Home = () => {
 
